@@ -1,12 +1,12 @@
 /*Pairing 1*/
-/*replace Roboto*/font-family: 'Libre Baskerville', serif;
-/*replace Cabin*/font-family: 'Source Sans Pro', sans-serif;
+/*replace Roboto font-family: 'Libre Baskerville', serif;*/
+/*replace Cabin font-family: 'Source Sans Pro', sans-serif;*/
 /*Pairing 2*/
-/*replace Playfair*/font-family: 'Montserrat', sans-serif;
-/*replace Source Sans*/font-family: 'Courier Prime', monospace; 
+/*replace Playfair font-family: 'Montserrat', sans-serif;*/
+/*replace Source Sans font-family: 'Courier Prime', monospace; */
 /*Pairing 3*/
-/*replace Avro*/font-family: 'Nova Mono', monospace;
-/*Keep*/font-family: 'Lato', sans-serif;
+/*replace Avro font-family: 'Nova Mono', monospace; */
+/*Keep font-family: 'Lato', sans-serif; */
 
 console.log(typeof $);
 html {
